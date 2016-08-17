@@ -6,3 +6,4 @@ gem 'omniauth-google-oauth2'
 gem 'json'
 gem 'sqlite3'
 gem "figaro"
+gem 'google-api-client', :require => 'google/api_client'
